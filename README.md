@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajas02
 - 👀 I’m interested in programming .
 - 🌱 I’m currently learning javascript along with mySQL.
-- 💞️ I’m looking to collaborate on school IT and ersonal projects
+- 💞️ I’m looking to collaborate on school IT and personal projects
 - 📫 You can reach me on my git hub @Prajas02 or email me at: zero20206@outlook.com or get in touch on discord , ID:Spriggan#0783
 See you there!
 
