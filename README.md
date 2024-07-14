@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Prajas02
-- 👀 I’m really interested in programming  .
-- 🌱 I am Currently working to polish my skills on "MEAN" Stack as I want to go in web engineer stream proffesionaly.
-- 💞️ I’m looking to collaborate on school IT and personal projects
-- 📫 You can reach me on my git hub @Prajas02 or email me at: zero20206@outlook.com or get in touch on discord , ID:Spriggan#0783
+- 👋 Hi, I’m Prajas Kulkarni
+- 👀 Currently pursuing Bachelor's of Technology in Mechanical Engineering in Indian Institute of Technology Gandhinagar.
+- 🌱 I am an enthusiast learner currently learning Deep Learning/Machine Learning and web development.
+- 💞️ My current Tech Stack:-
+- 1. { HTML }, { CSS }, { JAVASCRIPT }, { PYTHON }
+  2. Frontend Frameworks:- [ React, Astro ]
+  3. Database:- [ MySQL, Mongo DB ]
+  4. Backend Framworks:- {Node JS} , {Flask}
+  5. Machine Learning/Deep Learning:- Tensorflow
+- 📫 You can reach me on my git hub @Prajas02 or email me at: zero20206@outlook.com.
 - Thank You For Reading This Much.
 - See You Next Time!
 
